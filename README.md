@@ -1,4 +1,4 @@
 # Twitter-Account-Creator
 Twitter Account Creator
 
-30 stars and Ill release source to it :)
+I will release this when I get 30 stars and 60 followers :)
