@@ -2,7 +2,7 @@
 Twitter Account Creator
 
 
-Release Source: 30 stars and when I reach 60 followers
+Release Source: 30 stars + 40 followers
 
 # Contacts
 * **Discord - Not Sharing on github, can be found in the discord**
